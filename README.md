@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Ravi
 
-<!--
-**TRavi107/Travi107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-I have around 4 years of experience with Unity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRavi107&layout=compact&theme=dark" />
+
+<br/><br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TRavi107&theme=dark" alt="Ravi" /></p>
+<br/><br/>
+
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=TRavi107&theme=dracula" alt="Ravi's activity graph" /></p>
+<br>
+Updating
