@@ -1,9 +1,15 @@
-### Hi there, I'm Ravi
+### Hi, I'm Ravi 👋
 
+**Cloud Infrastructure Engineer · Technical Project Manager · AWS Certified Solutions Architect · Unity Developer**
 
--I have around 4 years of experience with Unity.
+- ☁️ Build and run cloud infrastructure: CI/CD with Azure Pipelines, Docker, AWS ECR
+- 📋 Lead technical projects from planning to delivery
+- 🏅 **AWS Certified Solutions Architect – Associate**
+- 🎮 **4+ years** building games in **Unity (C#)**
 
-<br />
+**Stack:** AWS · Azure DevOps · Docker · C++ · C# · Python · Unity
+
+📫 [LinkedIn](www.linkedin.com/in/ravi-thapa-314325235) · [Email](mailto:thapa.ravi7.rt@gmai.com)
 
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRavi107&layout=compact&theme=dark" />
