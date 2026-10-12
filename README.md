@@ -9,8 +9,7 @@
 
 **Stack:** AWS · Azure DevOps · Docker · C++ · C# · Python · Unity
 
-📫 [LinkedIn](www.linkedin.com/in/ravi-thapa-314325235) · [Email](mailto:thapa.ravi7.rt@gmai.com)
-
+📫 [LinkedIn](https://www.linkedin.com/in/ravi-thapa-314325235) · [Email](mailto:your.real@email.com)
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TRavi107&layout=compact&theme=dark" />
 
