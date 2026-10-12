@@ -17,5 +17,3 @@
 <br/><br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TRavi107&theme=dark" alt="Ravi" /></p>
 <br/><br/>
-
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=TRavi107&theme=dracula" alt="Ravi's activity graph" /></p>
